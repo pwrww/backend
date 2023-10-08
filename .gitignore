@@ -39,6 +39,8 @@ out/
 ### property files ###
 application-*.properties
 
+### yml files ###
+*.yml
 
 ### .DS_store ###
 **/.DS_Store
